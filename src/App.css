@@ -1,0 +1,7 @@
+.App {
+  background: VAR(--COLOR-GRAY);
+  min-height: 100VH;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+}
